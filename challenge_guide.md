@@ -29,7 +29,7 @@ cd PEKOM-Linux-Workshop
 
 ---
 
-### 1. Web Exploitation: *Secret Agent Only*
+### 1. [Web Exploitation: *Secret Agent Only*](./challenges/01-web/)
 
 * **Scenario:** An internal verification endpoint has been deployed, but access is restricted to a proprietary internal client.
 * **Objective:** Send a request with the expected user identity to reveal the flag.
